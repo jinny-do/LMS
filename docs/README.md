@@ -8,6 +8,7 @@
 4. [화면 목록](./04_screen_list.md)
 5. [ERD 초안](./05_erd_draft.md)
 6. [API 명세서 초안](./06_api_specification_draft.md)
+7. [code convention](./CODE_CONVENTION.md)
 
 ## 프로젝트 기준
 
